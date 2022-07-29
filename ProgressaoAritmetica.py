@@ -1,0 +1,1 @@
+primeiro = int(input('Primeiro termo N:'))
